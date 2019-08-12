@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="button">#F555</color>
+    <color name="input">#FFF0</color>
+    <color name="game_control_background">#FF00</color>
+    <color name="game_state_background">#F00F</color>
+    <color name="game_result_background">#F0F0</color>
+
+</resources>
